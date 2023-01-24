@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A Alligator 
 B Bat 
 C Crow 
